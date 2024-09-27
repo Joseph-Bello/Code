@@ -1,0 +1,1 @@
+print(time.ctime(0))
